@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-# The scripts prints it's own PID
 echo "My PID is $$"
