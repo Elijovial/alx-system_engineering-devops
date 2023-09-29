@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
-echo "My PID is $$"
+# Displays its own PID
+
+echo $$
