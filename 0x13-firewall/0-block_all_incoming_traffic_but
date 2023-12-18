@@ -1,6 +1,6 @@
 sudo apt install ufw
 sudo ufw default deny incoming
-sudo ufw allow 22
-sudo ufw allow 80
-sudo udw allow 443
+sudo ufw allow ssh
+sudo ufw allow http
+sudo udw allow https
 sudo ufw enable
